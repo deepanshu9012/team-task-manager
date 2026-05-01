@@ -13,10 +13,10 @@
 - Production URL: [https://team-task-manager-production-ad56.up.railway.app](https://team-task-manager-production-ad56.up.railway.app)
 
 ## Screenshots
-> Add your latest UI previews below.
 
-![Dashboard Screenshot Placeholder](./public/screenshots/dashboard-placeholder.png)
-![Projects Screenshot Placeholder](./public/screenshots/projects-placeholder.png)
+
+![Dashboard Screenshot Placeholder](./public/homepage.png)
+![Projects Screenshot Placeholder](./public/.png)
 
 ## Core Features
 - 🔐 **Secure Authentication (JWT):** Token-based login and protected API routes.
