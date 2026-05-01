@@ -93,4 +93,4 @@ src/lib/
 ## Author
 **Deepanshu Sharma**  
 B.Tech CSE Student, MIT Moradabad  
-LinkedIn: [Add LinkedIn Profile URL](https://www.linkedin.com/)
+LinkedIn: [https://www.linkedin.com/in/deepanshu-sharma-266a05288/]
