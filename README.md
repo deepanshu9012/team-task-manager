@@ -16,7 +16,7 @@
 
 
 ![Dashboard Screenshot Placeholder](./public/homepage.png)
-![Projects Screenshot Placeholder](./public/.png)
+![Projects Screenshot Placeholder](./public/dashboard.png)
 
 ## Core Features
 - 🔐 **Secure Authentication (JWT):** Token-based login and protected API routes.
